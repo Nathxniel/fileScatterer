@@ -1,8 +1,6 @@
 # fileScatterer
 
-usage: (todo)
-
-exported from ppp project
+use cases: ∞
 
 ## dependancies
  - tree
